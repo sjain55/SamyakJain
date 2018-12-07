@@ -1,0 +1,117 @@
+{
+	"uuid": null,
+	"bookingDetails": [
+		{
+			"uuid": "U7CM6W4XQRM",
+			"queryStatus": 0,
+			"bookingStatus": "0",
+			"bookingSubStatus": "0",
+			"bookingDateTime": "2018-11-11TT01:56:56",
+			"minDeptDate": "2018-11-15T00:45:00",
+			"packageName": "",
+			"maxArrDateIST": "2018-12-14T07:10:00",
+			"freeCancellationEligibityDate": "1753-01-01T00:00:00",
+			"lobCode": "LOB02510",
+			"primaryContactFirstName": "ShoaibHasan",
+			"phoneNumber": "919923236349",
+			"coachDetails": [],
+			"railDetails": [],
+			"isfphBooking": "0",
+			"bookingID": "NF72996166361734",
+			"aggregateBookingStatus": null,
+			"status": "Confirmed",
+			"primaryContactLastName": "Ansari",
+			"isHolidayBooking": "0",
+			"intent": "PNQ-BLR",
+			"journeyType": "R",
+			"primaryContactMiddleName": "",
+			"emailID": "shoaib.at@gmail.com",
+			"bookingAmount": 5110.0,
+			"effectiveBookingAmount": 5461.0,
+			"lobName": "MOB-ON-AirDomestic",
+			"minDeptDateIST": "2018-11-15T00:45:00",
+			"bookingLastUpdated": "2018-11-11T01:58:12",
+			"hotelDetails": [],
+			"flightSegment": [
+				{
+					"departureTerminal": "",
+					"arrivalTerminal": "1",
+					"supplierID": "6EUNI_23June",
+					"productCodeValue": "FLTB2CDOM",
+					"startDateTime": "15/11/201802:15:00",
+					"productCode": "FLIGHT",
+					"destinationCityName": "Bangalore",
+					"airlineNumber": "681",
+					"origin": "PNQ",
+					"endDateTime": null,
+					"airLineName": "IndigoAirlines",
+					"destination": "BLR",
+					"journeyType": "R",
+					"pnrNo": "WL43VK",
+					"passengers": [
+						{
+							"middleName": "",
+							"lastName": "ANSARI",
+							"firstName": "SHOAIBHASAN"
+						}
+					],
+					"ticketNo": "WL43VK",
+					"airlineCode": "6E",
+					"originCityName": "Pune",
+					"pnrStatus": "Confirmed",
+					"airLinePNR": "WL43VK",
+					"completed": "2"
+				},
+				{
+					"departureTerminal": "",
+					"arrivalTerminal": "",
+					"supplierID": "G8UNIMOBNS_18Sept",
+					"productCodeValue": "FLTB2CDOM",
+					"startDateTime": "14/12/201807:10:00",
+					"productCode": "FLIGHT",
+					"destinationCityName": "Pune",
+					"airlineNumber": "283",
+					"origin": "BLR",
+					"endDateTime": null,
+					"airLineName": "GOAIR",
+					"destination": "PNQ",
+					"journeyType": "R",
+					"pnrNo": "X6U77M",
+					"passengers": [
+						{
+							"middleName": "",
+							"lastName": "ANSARI",
+							"firstName": "SHOAIBHASAN"
+						}
+					],
+					"ticketNo": "X6U77M",
+					"airlineCode": "G8",
+					"originCityName": "Bangalore",
+					"pnrStatus": "Confirmed",
+					"airLinePNR": "X6U77M",
+					"completed": "2"
+				}
+			],
+			"maxArrDate": "2018-12-14T07:10:00",
+			"qcDate": "2018-11-11T01:58:10",
+			"refundDetails": {
+				"pgDays": 0,
+				"bankTAT": 0,
+				"refundAmount": 0.0,
+				"refundStatus": null,
+				"refundInitiatedDate": null
+			},
+			"ecoupon": "MMTAMAZON",
+			"branchcode": "B0220",
+			"cashbackAmount": 0.0,
+			"mmtPrivilegeVersion": "DF_CANC_5",
+			"isMMTPrivilege": 1,
+			"waiverAmount": 0.0,
+			"payAtHotelAmount": null,
+			"bookingType": 0,
+			"emailcommid": null,
+			"mobilenocommid": "IKU82WO8RVA",
+			"iseligibleforacceleratedblack": 0
+		}
+	]
+}
